@@ -1,0 +1,133 @@
+h1{
+    color:aqua;
+    font-size: 36px;
+}
+table{
+    border-collapse: collapse;
+    width: 50%;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    font-family: Arial, Times New Roman;
+    font-size: 16px;
+    
+}
+    th.titulo{
+        border:1px solid white;
+        width:100%;
+        color: aqua;
+        
+    }
+    th{
+        
+        border:1px solid white;
+        width:10%;
+    }
+    
+    td{
+        border:1px solid white;
+        width:10%;
+    }
+    div.about
+    { 
+        width: 40%;
+
+    }
+    img{
+        border: 1px solid white;
+    }
+.jogo1{
+    background-image: url(https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S1_2560x1440-82eb5cf8f725e329d3194920c0c0b64f);
+    background-size: 2000px;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 1200;
+    background-attachment: fixed;
+}
+.quadrado{
+    width: 1280px;
+    height: 1000px;
+    background-color: rgb(41, 41, 41);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+.jogo3{
+    background-image: url(https://technewsbrasil.com.br/wp-content/uploads/2022/08/fromsoftware-30-da-criadora-pertence-agora-a-estas-duas-empresas-2-scaled-1200x675.jpg);
+    background-size: 2000px;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 10;
+    background-attachment: fixed;
+}
+.quadrado3{
+    width: 1280px;
+    height: 1250px;
+    background-color: rgb(41, 41, 41);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+.jogo2{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/606d159a953867291018f801/1619987722169-VV6ZASHHZNRBJW9X0PLK/Key_Art_02_layeredjpg.jpg?format=1500w);
+    background-size: 2000px;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 100;
+    background-attachment: fixed;
+}
+.quadrado2{
+    width: 1280px;
+    height: 700px;
+    background-color: rgb(41, 41, 41);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+.jogo4{
+    background-image: url(https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/a67e6eccd6af578d69c4725b504d082a3ad44ab2b775863d.png);
+    background-size: 2000px;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 100;
+    background-attachment: fixed;
+}
+.quadrado4{
+    width: 1280px;
+    height: 900px;
+    background-color: rgb(41, 41, 41);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+.jogo5{
+    background-image: url(https://cdn2.unrealengine.com/fallout-4-header-credit-bethesda-3588x2018-407b681f211e.jpg);
+    background-size: 2000px;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 100;
+    background-attachment: fixed;
+}
+.jogos{
+    background-image: url(https://gameplayscassi.com.br/wp-content/uploads/2022/08/Lojas-Digitais-de-Jogos-no-PC.jpg);
+    background-size: 2000px;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 100;
+    background-attachment: fixed;
+}
+.quadradojogos{
+    width: 400px;
+    height: 850px;
+    background-color: rgb(41, 41, 41);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+.quadradohome{
+    width: 700px;
+    height: 500px;
+    background-color: rgb(41, 41, 41);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
